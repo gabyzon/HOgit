@@ -28,6 +28,7 @@ cd HOgit
 
 Editamos el archivo de README y hacemos un nuevo commit. 
 Listo, con esta linea estoy editando el README.md
+Ahora, hago la segunda edición en el branch charlas :)
 
 ```
 vi README.md
