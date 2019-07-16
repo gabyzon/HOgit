@@ -26,7 +26,8 @@ git clone https://github.com/wtpc/HOgit.git
 cd HOgit
 ```
 
-Editamos el archivo de README y hacemos un nuevo commit
+Editamos el archivo de README y hacemos un nuevo commit. 
+Listo, con esta linea estoy editando el README.md
 
 ```
 vi README.md
