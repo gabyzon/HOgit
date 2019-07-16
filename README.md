@@ -109,6 +109,15 @@ y listo! en nuestra cuenta de github ya tiene que estar subido. pueden ver el ne
 
 Luego también editamos este readme para agregar los comandos con los que hicimos el repositorio
 
+Los comandos que usamos en el práctico son:
+clone
+add
+commit
+branch
+checkout
+merge
+log
+push
 
 ```
 vi README.md
